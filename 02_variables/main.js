@@ -25,10 +25,12 @@ console.log(newNumber);
 
 function print() {
   console.log(number, text);
-
-  var newText = "Lorem ipsum new.";
 }
 
 print();
+
+{
+  var newText = "Lorem ipsum new.";
+}
 
 console.log(newText);
