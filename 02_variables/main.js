@@ -21,7 +21,7 @@ console.log(scope);
 
 newNumber = 1;
 
-console.log(newText);
+console.log(newNumber);
 
 function print() {
   console.log(number, text);
