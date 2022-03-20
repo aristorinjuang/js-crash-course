@@ -28,9 +28,3 @@ function print() {
 }
 
 print();
-
-{
-  var newText = "Lorem ipsum new.";
-}
-
-console.log(newText);
